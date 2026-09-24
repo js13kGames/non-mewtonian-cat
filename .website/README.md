@@ -1,4 +1,6 @@
 ---
+genres:
+  - puzzle
 directors_cut: https://non-mewtonian-cat.netlify.app/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
